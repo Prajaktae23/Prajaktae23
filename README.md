@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Prajakta
-- 🌱 I’m currently learning python
-- 📫 How to reach me metkarprajakta2005@gmail.com
+- 🌱 I’m currently learning Python,Artificial Intelligence and Machine Learning
+- 📫 How to reach me prajakta.metkar.23@gmail.com
